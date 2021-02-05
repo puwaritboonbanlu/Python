@@ -1,0 +1,8 @@
+name=input('What is your name?\n')
+surname=input('What is your surname?\n')
+Yearofstudy=input('What Year of study?\n')
+Studentcode=input('What Student code?\n')
+print('\n')
+print('My name is = %s'%name,surname)
+print('Year of study =%s'%Yearofstudy)
+print('Student code = %s'%Studentcode)
