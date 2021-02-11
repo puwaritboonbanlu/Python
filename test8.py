@@ -177,7 +177,7 @@ while(True):
             break
         elif ch == 'n':
             continue 
-'''        
+       '''
 
 '''
 Dictionaly = {}
