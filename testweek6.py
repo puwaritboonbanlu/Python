@@ -104,7 +104,7 @@ while True:
         delete()
         print('\n\tทำรายการเสร็จสิ้น\n')
     elif king == 'x':
-        print('\tออกจากดปรแกรม')
+        print('\tออกจากโปรแกรม')
         e=str(input('\tต้องการออกจาระบบหรือไม่ yes/no : '))
         if e == 'yes':
             clear()
